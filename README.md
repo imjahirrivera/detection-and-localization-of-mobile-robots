@@ -8,7 +8,7 @@
 -- ./venv/Scripts/activate
 -- deactivate
 
-## Ultralytics for YOLO(No specific version)
+## Ultralytics for YOLO (No specific version)
 pip install ultralytics
 
 ## Pyzbar for QR (No specific version)
