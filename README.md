@@ -21,6 +21,6 @@ pip install pyzbar
 2. Copy and paste the command "Run this Command" into the terminal as shown in the image:
 ![image](https://github.com/user-attachments/assets/92b783a1-60bb-40ac-b0a2-e9198e890c52)
 
-3. Modify code and add "--upgrade" between "install" and "toerch".
+3. Modify code and add "--upgrade" between "install" and "torch". <br>
    Example: pip3 install *--upgrade* torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
      
