@@ -27,4 +27,4 @@ pip install pyzbar
 ## YOLO-IA, Videos and Images to test:
 Go to: https://drive.google.com/drive/folders/1NtkFeWHbcUyJPJX5KeSZ93r074NLoRni?usp=sharing <br> and download the folder and add it to the root folder of the project. <br>
 <br>
-Example: ![image](https://github.com/user-attachments/assets/b0c27dde-f477-4232-8dc7-6546aefc80b4)
+Example: <br>![image](https://github.com/user-attachments/assets/b0c27dde-f477-4232-8dc7-6546aefc80b4)
