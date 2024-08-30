@@ -15,7 +15,7 @@ pip install ultralytics
 
 pip install pyzbar
 
-## PyTorch to run process with GPU
+## PyTorch for running processes with GPU
 
 1. Go to: https://pytorch.org/get-started/locally/
 2. Copy and paste the command "Run this Command" into the terminal as shown in the image:
