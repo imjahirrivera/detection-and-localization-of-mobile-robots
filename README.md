@@ -1,6 +1,6 @@
-# First Test for Detection
+# Settings to eject
 
-## Python
+## Python Version
 3.8.0
 
 ## Virtual Environment
@@ -8,11 +8,19 @@
 -- ./venv/Scripts/activate
 -- deactivate
 
-## Ultralytics
+## Ultralytics for YOLO(No specific version)
 pip install ultralytics
 
-## Tkinter
-pip install tk
+## Pyzbar for QR (No specific version)
 
-## imutils
-pip install imutils
+pip install pyzbar
+
+## PyTorch to run process with GPU
+
+1. Go to: https://pytorch.org/get-started/locally/
+2. Copy and paste the command "Run this Command" into the terminal as shown in the image:
+![image](https://github.com/user-attachments/assets/d4c5460a-25c5-4106-b096-dba80733f994)
+
+4. Modify code and add "--upgrade" between "install" and "toerch".
+   Example: pip3 install *--upgrade* torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+     
