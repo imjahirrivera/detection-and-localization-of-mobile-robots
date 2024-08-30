@@ -1,4 +1,4 @@
-# Settings to eject
+# Settings to run
 
 ## Python Version
 3.8.0
